@@ -1,0 +1,64 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.hero-cont {
+  height: 800px;
+  display: grid;
+  background-image: url("images/green-truck-eco-friendly-transportation-concept-on-spring-meadow-ai-generated-photo.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 1000px;
+}
+.hero-cont-1 {
+  display: grid;
+  background-image: url("images/green-truck-eco-friendly-transportation-concept-on-spring-meadow-ai-generated-photo.jpg");
+
+  background-size: 100% 1000px;
+}
+
+.your-mobile {
+  padding-top: 20%;
+  width: 45%;
+}
+
+.we-offer {
+  width: 45%;
+}
+
+.contact-us {
+  height: 400px;
+}
+
+.do-you {
+  width: 10%;
+}
+
+.image-call {
+  padding-top: 10px;
+}
+
+.img-one {
+  width: 150px;
+  height: 150px;
+  border-radius: 100px;
+}
+
+.Features-1 {
+  width: 50px;
+  height: 2px;
+}
+
+.img-reach {
+  width: 300px;
+  height: 300px;
+}
+
+.logo-one {
+  width: 70px;
+}
+
+.img-two {
+  width: 300px;
+  border-radius: 20px;
+}
